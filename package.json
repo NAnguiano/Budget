@@ -1,0 +1,26 @@
+{
+  "name": "budget",
+  "version": "0.0.0",
+  "description": "A simple budget app that only contains the features I need",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAnguiano/Budget.git"
+  },
+  "keywords": [
+    "budget"
+  ],
+  "author": "NAnguiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NAnguiano/Budget/issues"
+  },
+  "homepage": "https://github.com/NAnguiano/Budget#readme",
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "eslint-plugin-react": "^7.1.0"
+  }
+}
